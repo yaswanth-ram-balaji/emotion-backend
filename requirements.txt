@@ -7,4 +7,4 @@ aiofiles
 python-dotenv
 deepface
 opencv-python-headless
-tensorflow-cpu==2.11.0
+tensorflow==2.11.0
