@@ -1,10 +1,7 @@
 fastapi
 uvicorn
-pillow
-numpy
-python-multipart
-aiofiles
-python-dotenv
 deepface
 opencv-python-headless
-tensorflow==2.11.0
+python-dotenv
+aiofiles
+tensorflow==2.10.0
